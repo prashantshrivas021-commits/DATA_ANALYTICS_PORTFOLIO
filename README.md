@@ -11,6 +11,6 @@ This repository showcases multiple data analysis projects using Python, SQL, Pow
 
 ---
 ## Contact
-- LinkedIn: your-link
-- GitHub: your-github
-- Email: your-email@example.com
+- LinkedIn:https://www.linkedin.com/in/prashantshrivas2712
+- GitHub:
+- Email:prashantshrivas021@gmail.com
